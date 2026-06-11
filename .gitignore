@@ -1,0 +1,10 @@
+__pycache__/
+catboost_info/
+.claude/
+CLAUDE.md
+*.csv
+*.xlsx
+ga_sessions.pkl
+ga_hits.pkl
+sessions_eda.pkl
+sessions_with_target.pkl
